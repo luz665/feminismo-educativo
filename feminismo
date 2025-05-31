@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Feminismo </title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+      background-color: #fff0f5;
+      color: #333;
+    }
+    header, footer {
+      background-color: #e91e63;
+      color: white;
+      padding: 1em;
+      text-align: center;
+    }
+    nav {
+      background-color: #f8bbd0;
+      padding: 1em;
+      text-align: center;
+    }
+    nav a {
+      margin: 0 15px;
+      text-decoration: none;
+      color: #880e4f;
+    }
+    main {
+      padding: 2em;
+    }
+    section {
+      margin-bottom: 2em;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Feminismo Educativo</h1>
+    <p>Aprende sobre el feminismo y su impacto en la sociedad</p>
+  </header>
+  <nav>
+    <a href="#historia">Historia</a>
+    <a href="#conceptos">Conceptos</a>
+    <a href="#mujeres">Mujeres destacadas</a>
+  </nav>
+  <main>
+    <section id="historia">
+      <h2>Historia del Feminismo</h2>
+      <p>El feminismo es un movimiento social y político que lucha por la igualdad entre hombres y mujeres...</p>
+    </section>
+    <section id="conceptos">
+      <h2>Conceptos Clave</h2>
+      <ul>
+        <li>Igualdad de género</li>
+        <li>Patriarcado</li>
+        <li>Empoderamiento</li>
+      </ul>
+    </section>
+    <section id="mujeres">
+      <h2>Mujeres Destacadas</h2>
+      <p>Simone de Beauvoir, Malala Yousafzai, Frida Kahlo, etc.</p>
+    </section>
+  </main>
+  <footer>
+    <p>© 2025 Feminismo Educativo - Todos los derechos reservados</p>
+  </footer>
+</body>
+</html>
